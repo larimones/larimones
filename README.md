@@ -9,7 +9,7 @@ Hi there, I'm a junior developer at Optidata Cloud, I'm 22 years old, I like boo
 - Computer engineering studant;
 - In constant evolution; 
 - How to reach me: 
-         [Instagram](https://www.instagram.com/larissamones/), [Linkedin](https://br.linkedin.com/in/larissa-mones-019753200)
+         [Instagram](https://www.instagram.com/larissamones/), [Linkedin](https://www.linkedin.com/in/larissa-mones-bedin-019753200/)
 
 ### Skills
 
