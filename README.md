@@ -1,6 +1,5 @@
 
-
-Larissa Mones :sparkles:
+ :sparkles:
 =============
 Hi there, I'm a junior developer at Optidata Cloud, I'm 22 years old, I like books, good coffee, games and cats. 😊
 
