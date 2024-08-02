@@ -22,6 +22,10 @@ Hi there, I'm a junior developer at Optidata Cloud, I'm 22 years old, I like boo
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" width="36" height="36" alt="Bootstrap" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" width="36" height="36" alt="Laravel" /></a>
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" width="36" height="36" alt="C" /></a>
+<a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" width="36" height="36" alt="Java" /></a>
+</p>
+
 
       
 </p>
