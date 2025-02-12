@@ -1,37 +1,24 @@
 
- :sparkles:
-=============
-Hi there, I'm a junior developer at Optidata Cloud, I'm 22 years old, I like books, good coffee, games and cats. 😊
-
 -------------
+## Hi, I'm Larissa 
+- I'm on my last year of Computer engineering graduation;
+- Working as a web developer; 
 
-- Computer engineering studant;
-- In constant evolution; 
-- How to reach me: 
-         [Instagram](https://www.instagram.com/larissamones/), [Linkedin](https://www.linkedin.com/in/larissa-mones-bedin-019753200/)
+  ![GitHub Banner](https://cloggie.org/pictures/wissewords/maidragon-05.jpg)
 
-### Skills
-
-<p align="left">
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>  
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2048px-PHP-logo.svg.png" width="36" height="36" alt="PHP" /></a>  
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" width="36" height="36" alt="Laravel" /></a>
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" width="36" height="36" alt="C" /></a>
-<a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.png" width="36" height="36" alt="Docker" /></a>
-<a href="https://www.erlang.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Erlang_logo.png" width="36" height="36" alt="Erlang" /></a>
-
-</p>
-
-
-      
-</p>
-
+## 🛠️ Tecnologias e Ferramentas  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)  
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)  
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)  
+![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)  
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)  
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)  
+![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)  
+![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)  
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)  
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)  
+![Erlang](https://img.shields.io/badge/-Erlang-333333?style=flat&logo=erlang)  
 
 ### Badges
 
