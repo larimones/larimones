@@ -2,7 +2,7 @@
 -------------
 ## Hi, I'm Larissa 
 - I'm on my last year of Computer engineering graduation;
-- Working as a web developer; 
+- Working as a web developer since 2021;
 
   ![GitHub Banner](https://cloggie.org/pictures/wissewords/maidragon-05.jpg)
 
